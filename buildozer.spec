@@ -1,19 +1,19 @@
 [app]
 
 # (str) Title of your application
-title = simplerate
+title = simpleinterest
 
 # (str) Package name
-package.name = simplerate
+package.name = myapp
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.kivymd
+package.domain = org.test
 
 # (str) Source code where the main.py live
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
-source.include_exts = py,kv
+source.include_exts = py,png,jpg,kv,atlas
 
 # (list) List of inclusions using pattern matching
 #source.include_patterns = assets/*,images/*.png
